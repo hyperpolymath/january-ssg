@@ -1,4 +1,4 @@
-= january-ssg
+= liminal-ssg
 :toc:
 :toc-title: Table of Contents
 :icons: font
@@ -19,8 +19,8 @@ Janus is a structured imperative language where every statement has a unique inv
 === Thermodynamic Minimalism
 By avoiding the erasure of information, reversible computing circumvents the Landauer limit of energy dissipation. This makes `january-ssg` the most ecologically sound and heat-efficient engine in the **poly-ssg** family.
 
-=== Peer of Flight-ssg
-While `flight-ssg` leverages the Arrow paradigm, `january-ssg` provides a familiar imperative structure (loops, conditionals) that remains strictly reversible. It serves as the "structured" anchor for the reversible tier of the ecosystem.
+=== Peer of undo-ssg
+While `undo-ssg` leverages the Arrow paradigm, `january-ssg` provides a familiar imperative structure (loops, conditionals) that remains strictly reversible. It serves as the "structured" anchor for the reversible tier of the ecosystem.
 
 === Podman-First "Time-Capsule"
 The Janus runtime is fully containerised. Whether deploying to **Minix**, **Linux**, or **PC**, the reversible environment is isolated, ensuring that "undoing" a build never affects the host system's stability.
